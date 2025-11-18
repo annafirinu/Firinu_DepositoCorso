@@ -25,3 +25,4 @@ class Libreria:#Creo la classe libreria
         print("Matrice dei dati:")
         for riga in self.matrice:
             print(riga)
+

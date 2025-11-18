@@ -6,3 +6,4 @@ class Libro: #Creo la classe libro
 
     def descrizione(self): #Stringa che descrive il libro
         return f"Titolo: {self.titolo} , Autore: {self.autore} , ISBN: {self.isbn}"
+
